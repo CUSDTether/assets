@@ -1,0 +1,41 @@
+{
+
+    "name": "Ctether USD",
+
+    "website": "https://Ctether.pro/",
+
+    "source_code": "https://github.com/cusdt",
+
+    "white_paper": "http://github.com/CUSDTether/CUSDT/blob/master/CUSDT%20ONE%20PAGER-WPS%20Office.pdf",
+
+    "short_description": "Decentralization of Erc20 tether.",
+
+    "description": "community USD Tether is an alternative created to fulfill the lapses of Erc20 tether.",
+
+    "socials": [
+
+        {
+
+            "name": "Twitter",
+
+            "url": "https://twitter.com/Ctetherusd",
+
+            "handle": "ctetherusd"
+
+        },
+
+        {
+
+            "name": "telegram",
+
+            "url": "https://www.t.me/cusdtann",
+
+            "handle": "cusdtann"
+
+        }
+
+    ],
+
+    "explorer": "https://etherscan.io/token/0x39ab32006afe65a0b4d6a9a89877c2c33ad19eb5"
+
+}
